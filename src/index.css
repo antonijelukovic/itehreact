@@ -33,3 +33,18 @@ code {
 #button-proceed {
   width: 250px;
 }
+
+label {
+  color: white;
+}
+
+
+.joinform {
+  margin-top: 50px;
+  margin-left: 680px;
+  width: 500px;
+}
+
+#dgm {
+  width: 200px;
+}
