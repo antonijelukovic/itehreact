@@ -1,4 +1,5 @@
 * {
+  margin: 0;
   background-color: black;
 }
 
@@ -20,4 +21,15 @@ code {
   margin-top: 150px;
   font-size: 100px;
   color: white;
+}
+
+#input-proceed {
+  margin-top: 100px;
+  width: 850px;
+  margin-left: 530px;
+  height: 75px;
+}
+
+#button-proceed {
+  width: 250px;
 }
